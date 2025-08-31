@@ -32,8 +32,15 @@
 ---
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=azxigen&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azxigen&layout=compact&theme=radical)  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azxigen&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azxigen&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azxigen&theme=tokyonight" height="170"/>
+</p>
 
 ---
 
