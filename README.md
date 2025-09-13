@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/raghuvanshi-yash">LinkedIn</a> •
-  <a href="mailto:yashraghu1406@gmail.com">Email</a> •
-  <a href="https://github.com/azxigen">GitHub</a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghuvanshi-yash/) •
+  [![Email](https://img.shields.io/badge/Email-yashraghu1406@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashraghu1406@gmail.com) •
+  [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azxigen)
 </p>
 
 ---
@@ -49,6 +49,3 @@
 - 🎬 **Netflix Dataset Analysis (with Power BI Dashboard)**  
 
 ---
-
-✨ *Thanks for visiting my profile!*  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghuvanshi-yash/)
