@@ -5,9 +5,15 @@
 </p>
 
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghuvanshi-yash/) •
-  [![Email](https://img.shields.io/badge/Email-yashraghu1406@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashraghu1406@gmail.com) •
-  [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/azxigen)
+  <a href="https://www.linkedin.com/in/raghuvanshi-yash/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:yashraghu1406@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/azxigen">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
