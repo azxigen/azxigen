@@ -53,5 +53,6 @@
 ### 📌 Pinned Projects
 - 📦 **Amazon Dataset Analysis**  
 - 🎬 **Netflix Dataset Analysis (with Power BI Dashboard)**  
+- 🚗 **Tesla Performance Dashboard (Power BI)**
 
 ---
